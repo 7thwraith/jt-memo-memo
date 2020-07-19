@@ -6,6 +6,7 @@ type: post
 tags: informational selected
 meta:
 permalink: "/2018/01/23/eventing-and-touristing-in-japan-as-a-trusted-traveler/"
+aside: "Fast-tracking immigration lines in Japan, and much more!"
 ---
 I am not going to completely rehash information about the Japanese Ministry of Justice's Trusted Traveler Program (TTP) available on their [official site](http://www.immi-moj.go.jp/ttp2/en/). I will however go over questions and concerns I had as I went through the process that the site failed to address.
 
