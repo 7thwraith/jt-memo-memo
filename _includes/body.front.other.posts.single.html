@@ -9,6 +9,7 @@
     <h4 class="card-title mb-0">
       <a class="text-dark" href="{{ post.url }}" >{{ post.title }}</a>
     </h4>
+    <div class="mb-1 text-muted">{{ post.date | date: '%B %d, %Y' }}</div>
     <p class="card-text">
       {{ post.aside }}
     </p>
