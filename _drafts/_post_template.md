@@ -1,0 +1,11 @@
+---
+layout:
+title: 
+date: 
+type: 
+tags: 
+meta:
+permalink: 
+aside: 
+thumbnail: 
+---
