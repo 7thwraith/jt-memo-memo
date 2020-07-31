@@ -1,0 +1,77 @@
+---
+layout: post
+title: Attempts on Dissecting a Booru-style Image Board
+date: 2013-04-09 18:50:03.000000000 -04:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Projects
+tags: []
+meta:
+  _edit_last: '1'
+  _thumbnail_id: '60'
+author:
+  login: 7thwraith
+  email: 7thwraith@gmail.com
+  display_name: 7thwraith
+  first_name: ''
+  last_name: ''
+permalink: "/2013/04/09/attempts-on-dissecting-a-booru-style-image-board/"
+excerpt: "\n\t\t\t\t\t\t"
+---
+<p>
+				[caption id="attachment_60" align="aligncenter" width="640"]<a href="http://blog.7thwraith.net/wp-content/uploads/2013/04/sample-e6fcd45065055b18015e92a23f475599-e1365551262472.jpg"><img class="size-full wp-image-60" alt="Art by 廿楽きのこ" src="{{ site.baseurl }}/assets/sample-e6fcd45065055b18015e92a23f475599-e1365551262472.jpg" width="640" height="364" /></a> Art by 廿楽きのこ[/caption]</p>
+<p>The concept of a booru-style image board has always fascinated me. What would normally be just a regular image gallery is now suddenly one of the hubs for anime/manga-esque images (high-quality resolutions at that too) as well as what seems to me as an instigator to a whole new subculture formed by the marriage of animango and the internets (more specifically, the web's underlying technologies).</p>
+<p>I can talk to you all day about how uber-awesome boorus are, but what exactly makes a booru-style distinctive from all the image galleries/boards available across the web?</p>
+<p>Wikipedia has the following to say</p>
+<blockquote><p>...Danbooru and derivatives aim for a non-hierarchical semantic structure in which users are able to post content and add tags, annotations, translations, and comment.</p></blockquote>
+<p>Seems legitimate. It's a comprehensive summary of how it functions but....not really helpful if you're trying to build a booru-style image board from scratch. If anything, I would probably start by enumerating the important (at least the ones that I deem importabt)  microfunctions of the site.</p>
+<p>Let's start with the original booru-style image board, Danbooru.</p>
+<p>Note that this list is not complete. Some features are omitted, others have yet to be identified. I will be adding to this list over time.</p>
+<p style="text-align: center;"><a href="http://blog.7thwraith.net/wp-content/uploads/2013/04/danbooru_search_results.png"><img class="wp-image-58 aligncenter" title="Danbooru's Search Result Page" alt="danbooru_search_results" src="{{ site.baseurl }}/assets/danbooru_search_results-1024x622.png" width="614" height="373" /></a></p>
+<ol>
+<li>Search Bar - can search all classications of tags</li>
+<li>Tag list - list of all tags associated to images that are currently visible</li>
+<li>Tag classications - tags of a certain classication are of one color</li>
+<li>Tag-specific links - links to wiki pages that explain what the tag is used for</li>
+<li>Thumbnails - resized/cropped/edited versions of the full image</li>
+<li>Grid format - a grid of thumbnails</li>
+<li>Pagination</li>
+</ol>
+<p style="text-align: center;"><a href="http://blog.7thwraith.net/wp-content/uploads/2013/04/danbooru_single_post.png"><img class="wp-image-57 aligncenter" title="A single danbooru post" alt="danbooru_single_post" src="{{ site.baseurl }}/assets/danbooru_single_post-1024x622.png" width="614" height="373" /></a></p>
+<ol>
+<li>Search bar block</li>
+<li>Copyright tag block - block which holds one type of tag classification</li>
+<li>Characters tag block - block which holds another kind  of tag classification, self explanatory</li>
+<li>Artist tag blog - similar to above</li>
+<li>Related tag blog - block which holds the last kind of tag classification</li>
+<li>Information block - contains data about the image
+<ol>
+<li>ID - numerical ID of the post</li>
+<li>Uploader - self explanatory</li>
+<li>Date - self explanatory</li>
+<li>Source - where the image originated</li>
+<li>Rating - contains the values: safe, questionable, explicit</li>
+</ol>
+</li>
+<li>Comments block - self explanatory</li>
+</ol>
+<p style="text-align: center;"><a href="http://blog.7thwraith.net/wp-content/uploads/2013/04/danbooru_upload.png"><img class=" wp-image-59 aligncenter" title="Danbooru's upload page" alt="danbooru_upload" src="{{ site.baseurl }}/assets/danbooru_upload-1024x455.png" width="614" height="273" /></a></p>
+<ol>
+<li>File Upload</li>
+<li>Source - where the image originated</li>
+<li>Rating - degree of explicitness</li>
+<li>Parent ID - field to tie into a parent post</li>
+<li>Tag field - self explanatory
+<ol>
+<li>Related tags - general tags related to this image</li>
+<li>Artist tags - name of artists associated to the image</li>
+<li>Copyright tags - tags pertaining to name of series, company, etc</li>
+</ol>
+</li>
+</ol>
+<p>If you have not guessed yet, I plan to build a booru-style image board using CMS platform. The list above will be my guidelines. I will be elaborating more on this project but I shall save that for another post.</p>
+<p>Do feel free to add if you feel like I've missed something.		</p>
