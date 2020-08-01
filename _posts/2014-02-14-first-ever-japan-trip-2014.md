@@ -2,9 +2,8 @@
 layout: post
 title: "(First-Ever) Japan Trip 2014"
 date: 2014-02-14 12:08:47.000000000 -05:00
-type: post
 tags: eventing
-meta: COSPA Girls！モーレツ宇宙海賊 Japan Mandarake Mouretsu Pirates  Abyss of Hyperspace Non Non Biyori Ufotablet Cafe Wake Up のんのんだより のんのんだより公開録音なのん！
+meta-tags: COSPA Girls！モーレツ宇宙海賊 Japan Mandarake Mouretsu Pirates  Abyss of Hyperspace Non Non Biyori Ufotablet Cafe Wake Up のんのんだより のんのんだより公開録音なのん！
 - モーレツ宇宙海賊　ＡＢＹＳＳ　ＯＦ　ＨＹＰＥＲＳＰＡＣＥ－亜空の深淵－
 permalink: "/2014/02/14/first-ever-japan-trip-2014/"
 excerpt: "\n\t\t\t\t\t\t"

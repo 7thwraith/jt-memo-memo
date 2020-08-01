@@ -2,9 +2,8 @@
 layout: post
 title: Makino Yui @ Otakon 2016 Q&A
 date: 2016-08-14 23:41:00.000000000 -04:00
-type: post
 tags: eventing
-meta: 2016 Makino Yui Otakon 牧野由依
+meta-tags: 2016 Makino Yui Otakon 牧野由依
 permalink: "/2016/08/14/makino-yui-otakon-2016-qa/"
 aside: ""
 thumbnail: 

@@ -3,9 +3,8 @@ layout: post
 title: THE IDOLM@STER M@STERS OF IDOL WORLD!! Pre-Live Experience - THE IDOLM＠STER
   MOVIE
 date: 2014-03-17 19:37:40.000000000 -04:00
-type: post
 tags: eventing
-meta: THE IDOLM@STER M@STERS OF IDOL WORLD!! 2014 THE IDOLM＠STER MOVIE 輝きの向こう側へ! The iDOLM@STER Movie\ Kagayaki no Mukougawa e!
+meta-tags: THE IDOLM@STER M@STERS OF IDOL WORLD!! 2014 THE IDOLM＠STER MOVIE 輝きの向こう側へ! The iDOLM@STER Movie\ Kagayaki no Mukougawa e!
 permalink: "/2014/03/17/the-idolmster-msters-of-idol-world-pre-live-experience-the-idolm%ef%bc%a0ster-movie/"
 excerpt: "\n\t\t\t\t\t\t"
 ---

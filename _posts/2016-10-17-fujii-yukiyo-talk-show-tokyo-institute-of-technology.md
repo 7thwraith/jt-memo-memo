@@ -2,9 +2,8 @@
 layout: post
 title: Fujii Yukiyo Talk Show @ Tokyo Institute of Technology
 date: 2016-10-17 09:37:46.000000000 -04:00
-type: post
 tags: eventing selected
-meta: Fujii Yukiyo 東工大アニメ愛好会 藤井ゆきよ
+meta-tags: Fujii Yukiyo 東工大アニメ愛好会 藤井ゆきよ
 permalink: "/2016/10/17/fujii-yukiyo-talk-show-tokyo-institute-of-technology/"
 aside: 
 thumbnail: 

@@ -2,9 +2,8 @@
 layout: post
 title: Idolm@ster Official Signlight v.2 13-color set (アイドルマスター 公式サインライトVer.2 13色セット)
 date: 2013-07-14 20:06:19.000000000 -04:00
-type: post
 tags: merchandise
-meta: Idolm@ster アイドルマスター サインライト
+meta-tags: Idolm@ster アイドルマスター サインライト
 permalink: "/2013/07/14/idolmster-official-signlight-v-2-13-color-set-%e3%82%a2%e3%82%a4%e3%83%89%e3%83%ab%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc-%e5%85%ac%e5%bc%8f%e3%82%b5%e3%82%a4%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%88ver-2-1/"
 excerpt: "\n\t\t\t\t\t\t"
 ---

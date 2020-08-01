@@ -2,10 +2,8 @@
 layout: post
 title: Attempts on Dissecting a Booru-style Image Board
 date: 2013-04-09 18:50:03.000000000 -04:00
-type: post
-status: publish
 tags: projects
-meta:
+meta-tags:
 permalink: "/2013/04/09/attempts-on-dissecting-a-booru-style-image-board/"
 excerpt: "\n\t\t\t\t\t\t"
 ---

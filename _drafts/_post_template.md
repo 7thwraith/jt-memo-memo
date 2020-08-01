@@ -2,9 +2,8 @@
 layout:
 title: 
 date: 
-type: 
 tags: 
-meta:
+meta-tags:
 permalink: 
 aside: 
 thumbnail: 

@@ -2,9 +2,8 @@
 layout: post
 title: THE IDOLM@STER - Iori Minase Cycling Jersey (Short Sleeve)/ XL
 date: 2013-06-30 15:21:42.000000000 -04:00
-type: post
 tags: merchandise
-meta: amiami Amisports Idolm@ster Minase Iori アイドルマスター サイクルジャージ 水瀬伊織
+meta-tags: amiami Amisports Idolm@ster Minase Iori アイドルマスター サイクルジャージ 水瀬伊織
 permalink: "/2013/06/30/the-idolmster-iori-minase-cycling-jersey-short-sleeve-xl/"
 excerpt: "\n\t\t\t\t\t\t"
 ---

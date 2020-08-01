@@ -2,9 +2,8 @@
 layout: post
 title: THE IDOLM@STER 8th ANNIVERSARY HOP!STEP!!FESTIV@L!!! Original Merchandise (オリジナル商品)
 date: 2013-09-07 23:11:23.000000000 -04:00
-type: post
 tags: merchandise
-meta: THE IDOLM@STER 8th ANNIVERSARY HOP!STEP!!FESTIV@L!!! アイドルマスター アイマス８ｔｈ くぎみー チアキング ひろりん 公式カレンダー 公式パンフレット 公式フルーTシャツ 公式折り畳み傘
+meta-tags: THE IDOLM@STER 8th ANNIVERSARY HOP!STEP!!FESTIV@L!!! アイドルマスター アイマス８ｔｈ くぎみー チアキング ひろりん 公式カレンダー 公式パンフレット 公式フルーTシャツ 公式折り畳み傘
 permalink: "/2013/09/07/the-idolmster-8th-anniversary-hopstepfestivl-original-merchandise-%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e5%95%86%e5%93%81/"
 excerpt: "\n\t\t\t\t\t\t"
 ---

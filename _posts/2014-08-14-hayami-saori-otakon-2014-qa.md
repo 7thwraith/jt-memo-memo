@@ -2,9 +2,8 @@
 layout: post
 title: Hayami Saori @ Otakon 2014 Q&A
 date: 2014-08-14 20:38:44.000000000 -04:00
-type: post
 tags: eventing selected
-meta: 2014 Otakon Saori Hayami 早見沙織
+meta-tags: 2014 Otakon Saori Hayami 早見沙織
 permalink: "/2014/08/14/hayami-saori-otakon-2014-qa/"
 excerpt: ""
 ---

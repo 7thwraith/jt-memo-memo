@@ -2,9 +2,8 @@
 layout: post
 title: Eventing (and Touristing) in Japan as a Trusted Traveler
 date: 2018-01-23 19:53:31.000000000 -05:00
-type: post
 tags: informational selected
-meta:
+meta-tags:
 permalink: "/2018/01/23/eventing-and-touristing-in-japan-as-a-trusted-traveler/"
 aside: "Fast-tracking immigration lines in Japan, and much more!"
 thumbnail: 

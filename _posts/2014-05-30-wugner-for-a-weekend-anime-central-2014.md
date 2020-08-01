@@ -2,9 +2,8 @@
 layout: post
 title: WUGner for a Weekend @ Anime Central 2014
 date: 2014-05-30 23:07:48.000000000 -04:00
-type: post
 tags: eventing
-meta: 2014 7 Girls War Anime Central Hare Hare Yukai Kotonoha Aoba Tachiagare! Wake Up Girls タチアガレ ハレ晴レユカイ 言の葉 青葉 
+meta-tags: 2014 7 Girls War Anime Central Hare Hare Yukai Kotonoha Aoba Tachiagare! Wake Up Girls タチアガレ ハレ晴レユカイ 言の葉 青葉 
 permalink: "/2014/05/30/wugner-for-a-weekend-anime-central-2014/"
 excerpt: "\n\t\t\t\t\t\t"
 ---

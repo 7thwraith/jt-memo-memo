@@ -2,9 +2,8 @@
 layout: post
 title: Ookubo Rumi, Ueda Reina Goods Release Event @ Gamers Akihabara
 date: 2016-11-05 01:53:21.000000000 -04:00
-type: post
 tags: eventing merchandise selected
-meta: Ookubo Rumi Ueda Reina うえしゃま るみるみ 上田麗奈 大久保瑠美
+meta-tags: Ookubo Rumi Ueda Reina うえしゃま るみるみ 上田麗奈 大久保瑠美
 permalink: "/2016/11/05/ookubo-rumi-ueda-reina-goods-release-event/"
 aside: ""
 thumbnail: 

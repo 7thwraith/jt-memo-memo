@@ -2,13 +2,8 @@
 layout: post
 title: Anime North 2013 - Days 0 and 1
 date: 2013-05-30 21:22:57.000000000 -04:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
 tags: eventing
-meta: 2013 Anime North Eriko North Idolm@ster Nakamura Eriko Yu-Pack アイドルマスター ゆうパック 中村繪里子
+meta-tags: 2013 Anime North Eriko North Idolm@ster Nakamura Eriko Yu-Pack アイドルマスター ゆうパック 中村繪里子
 permalink: "/2013/05/30/anime-north-2013-days-0-and-1/"
 excerpt: "\n\t\t\t\t\t\t"
 ---

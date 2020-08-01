@@ -3,7 +3,7 @@ layout: post
 title: Idol Recollection Theme Song Completion Event
 date: 2015-06-03 20:44:53.000000000 -04:00
 tags: eventing selected
-meta: Idol Recollection Ueda Reina Ueshama アイドルリコレクション アイリコ うえしゃま 上田麗奈
+meta-tags: Idol Recollection Ueda Reina Ueshama アイドルリコレクション アイリコ うえしゃま 上田麗奈
 permalink: "/2015/06/03/idol-recollection-theme-song-completion-event/"
 excerpt: ""
 ---
