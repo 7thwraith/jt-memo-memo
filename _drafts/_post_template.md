@@ -1,0 +1,10 @@
+---
+layout:
+title: 
+date: 
+tags: 
+meta-tags:
+permalink: 
+aside: 
+thumbnail: 
+---
