@@ -6,7 +6,7 @@ tags: eventing merchandise selected
 meta-tags: Ookubo Rumi Ueda Reina うえしゃま るみるみ 上田麗奈 大久保瑠美
 permalink: "/2016/11/05/ookubo-rumi-ueda-reina-goods-release-event/"
 aside: ""
-thumbnail: 
+thumbnail: CtudkqwUsAAy4YR-1024x724.jpg
 ---
 [//]: # (/assets/CtudkqwUsAAy4YR-1024x724.jpg)
 

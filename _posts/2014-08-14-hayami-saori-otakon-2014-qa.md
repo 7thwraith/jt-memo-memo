@@ -6,6 +6,7 @@ tags: eventing selected
 meta-tags: 2014 Otakon Saori Hayami 早見沙織
 permalink: "/2014/08/14/hayami-saori-otakon-2014-qa/"
 excerpt: ""
+thumbnail: fdfde99618a9cda3f2ea1edb08fa04f5.png
 ---
 
 [//]: #  ([![saori_hayami]({{ site.baseurl }}/assets/saori_hayami-199x300.jpg)](http://blog.7thwraith.net/wp-content/uploads/2014/08/saori_hayami.jpg))

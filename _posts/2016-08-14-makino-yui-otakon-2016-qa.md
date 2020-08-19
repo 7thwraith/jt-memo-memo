@@ -6,7 +6,7 @@ tags: eventing
 meta-tags: 2016 Makino Yui Otakon 牧野由依
 permalink: "/2016/08/14/makino-yui-otakon-2016-qa/"
 aside: ""
-thumbnail: 
+thumbnail: 75528767_p0_master1200.jpg
 ---
 
 [//]: # (assets/YMakino-200x300.jpg)

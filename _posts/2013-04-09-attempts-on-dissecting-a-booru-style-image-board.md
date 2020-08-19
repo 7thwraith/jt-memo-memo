@@ -6,6 +6,7 @@ tags: projects
 meta-tags:
 permalink: "/2013/04/09/attempts-on-dissecting-a-booru-style-image-board/"
 excerpt: "\n\t\t\t\t\t\t"
+thumbnail: sample-e6fcd45065055b18015e92a23f475599-e1365551262472.jpg
 ---
 [//]: # ([caption id="attachment_60" align="aligncenter" width="640"][![Art by 廿楽きのこ]({{ site.baseurl }}/assets/sample-e6fcd45065055b18015e92a23f475599-e1365551262472.jpg)](http://blog.7thwraith.net/wp-content/uploads/2013/04/sample-e6fcd45065055b18015e92a23f475599-e1365551262472.jpg) Art by 廿楽きのこ[/caption])
 

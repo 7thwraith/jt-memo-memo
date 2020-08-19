@@ -6,6 +6,7 @@ tags: eventing
 meta-tags: 2014 7 Girls War Anime Central Hare Hare Yukai Kotonoha Aoba Tachiagare! Wake Up Girls タチアガレ ハレ晴レユカイ 言の葉 青葉 
 permalink: "/2014/05/30/wugner-for-a-weekend-anime-central-2014/"
 excerpt: "\n\t\t\t\t\t\t"
+thumbnail: ac.jpg
 ---
 [//]: #  ([![]({{ site.baseurl }}/assets/IMG_1443.jpg)](http://blog.7thwraith.net/wp-content/uploads/2014/05/IMG_1443.jpg))
 

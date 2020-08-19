@@ -6,6 +6,7 @@ tags: merchandise
 meta-tags: THE IDOLM@STER 8th ANNIVERSARY HOP!STEP!!FESTIV@L!!! アイドルマスター アイマス８ｔｈ くぎみー チアキング ひろりん 公式カレンダー 公式パンフレット 公式フルーTシャツ 公式折り畳み傘
 permalink: "/2013/09/07/the-idolmster-8th-anniversary-hopstepfestivl-original-merchandise-%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e5%95%86%e5%93%81/"
 excerpt: "\n\t\t\t\t\t\t"
+thumbnail: pBQf0OTh.jpg
 ---
 [//]: # ([![pBQf0OTh]({{ site.baseurl }}/assets/pBQf0OTh-300x200.jpg)](http://blog.7thwraith.net/wp-content/uploads/2013/09/pBQf0OTh.jpg) )
 Never has been there a post in the Merchandise category more befitting than a title that mentions "merchandise" on it.

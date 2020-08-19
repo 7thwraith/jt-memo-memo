@@ -6,6 +6,7 @@ tags: merchandise
 meta-tags: amiami Amisports Idolm@ster Minase Iori アイドルマスター サイクルジャージ 水瀬伊織
 permalink: "/2013/06/30/the-idolmster-iori-minase-cycling-jersey-short-sleeve-xl/"
 excerpt: "\n\t\t\t\t\t\t"
+thumbnail: CGD2-51346.jpg
 ---
 [//]: # ([![CGD2-51346]({{ site.baseurl }}/assets/CGD2-51346.jpg)](http://blog.7thwraith.net/wp-content/uploads/2013/06/CGD2-51346.jpg))
 

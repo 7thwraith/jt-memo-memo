@@ -6,6 +6,7 @@ tags: eventing selected
 meta-tags: Idol Recollection Ueda Reina Ueshama アイドルリコレクション アイリコ うえしゃま 上田麗奈
 permalink: "/2015/06/03/idol-recollection-theme-song-completion-event/"
 excerpt: ""
+thumbnail: 21677_10155681711200455_9102915275368129288_n.jpg
 ---
 [//]: #  (![21677_10155681711200455_9102915275368129288_n]({{ site.baseurl }}/assets/21677_10155681711200455_9102915275368129288_n.jpg))
 

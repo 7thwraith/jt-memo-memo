@@ -6,6 +6,7 @@ tags: eventing
 meta-tags: I-1club Wake Up Girls 加藤英美里 吉岡茉祐 大坪由佳 奥野香耶 安野希世乃 山下七海 山本希望 明坂聡美 永野愛理 津田美波 田中美海 福原香織 青山吉能 高木美佑
 permalink: "/2014/12/26/weekend-wake-up-girls-festa-2014-winter-wake-up-girls-vs-i-1-club/"
 excerpt: ""
+thumbnail: cover-oUKpYDniYCdRhLhEWf6ymZAC096VQSvM.jpg
 ---
 [//]: #  ([![156884]({{ site.baseurl }}/assets/156884.jpg)](http://blog.7thwraith.net/wp-content/uploads/2014/12/156884.jpg))
 
