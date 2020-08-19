@@ -1,19 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
-  {% include header.html %}
-  <body>
-    {% include navbar.html %}
-    <div class="container">
-      {{ content }}
+{% include header.html %}
+
+<body>
+  {% include navbar.html %}
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
+        <h1 class="mt-4">{{ page.title }}</h1>
+        <hr>
+        <p>Posted on {{ page.date | date: '%B %d, %Y' }}</p>
+        <hr>
+        <img class="img-fluid rounded" src="{{ site.baseurl }}/assets/images/thumbnails/{{ page.thumbnail }}" alt="">
+        <hr>
+        {{ content }}
+      </div>
     </div>
-    <div class="container">
-      {% include body.front.selected.posts.html %}
-    </div>   
-    <div class="container">
-      {% include body.front.other.posts.html %}
-    </div>    
-    {% include footer.html %}
-    <script src="/js/jquery-3.3.1.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
-  </body>
+  </div>
+  {% include footer.html %}
+  <script src="/js/jquery-3.3.1.min.js"></script>
+  <script src="/js/bootstrap.min.js"></script>
+</body>
+
 </html>
