@@ -6,7 +6,7 @@ tags: eventing selected
 meta-tags: Fujii Yukiyo 東工大アニメ愛好会 藤井ゆきよ
 permalink: "/2016/10/17/fujii-yukiyo-talk-show-tokyo-institute-of-technology/"
 aside: 
-thumbnail: 
+thumbnail: o0480036013768794849.jpg
 ---
 [//]: # ([caption id="attachment_1308" align="aligncenter" width="480"]![o0480036013768794849]({{ site.baseurl }}/assets/o0480036013768794849.jpg) Source: http://ameblo.jp/yukiichigo1515/entry-12208087403.html[/caption] )
 

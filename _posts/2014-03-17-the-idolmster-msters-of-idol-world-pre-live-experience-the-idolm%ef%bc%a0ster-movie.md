@@ -7,6 +7,7 @@ tags: eventing
 meta-tags: THE IDOLM@STER M@STERS OF IDOL WORLD!! 2014 THE IDOLM＠STER MOVIE 輝きの向こう側へ! The iDOLM@STER Movie\ Kagayaki no Mukougawa e!
 permalink: "/2014/03/17/the-idolmster-msters-of-idol-world-pre-live-experience-the-idolm%ef%bc%a0ster-movie/"
 excerpt: "\n\t\t\t\t\t\t"
+thumbnail: mvLarge.jpg
 ---
 [//]: #  ([![mvLarge]({{ site.baseurl }}/assets/mvLarge-756x1024.jpg)](http://blog.7thwraith.net/wp-content/uploads/2014/03/mvLarge.jpg))
 

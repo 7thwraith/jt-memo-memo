@@ -6,6 +6,7 @@ tags: merchandise
 meta-tags: Idolm@ster アイドルマスター サインライト
 permalink: "/2013/07/14/idolmster-official-signlight-v-2-13-color-set-%e3%82%a2%e3%82%a4%e3%83%89%e3%83%ab%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc-%e5%85%ac%e5%bc%8f%e3%82%b5%e3%82%a4%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%88ver-2-1/"
 excerpt: "\n\t\t\t\t\t\t"
+thumbnail: IMG_0684.jpg
 ---
 [//]: # (![IMG_0684]({{ site.baseurl }}/assets/IMG_0684-300x200.jpg)](http://blog.7thwraith.net/wp-content/uploads/2013/07/IMG_0684.jpg))
 
