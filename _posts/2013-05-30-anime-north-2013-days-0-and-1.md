@@ -6,6 +6,7 @@ tags: eventing
 meta-tags: 2013 Anime North Eriko North Idolm@ster Nakamura Eriko Yu-Pack アイドルマスター ゆうパック 中村繪里子
 permalink: "/2013/05/30/anime-north-2013-days-0-and-1/"
 excerpt: "\n\t\t\t\t\t\t"
+thumbnail: anime-north.png
 ---
 Erikon 2013...I-I mean Anime North would be my first ever anime convention experience and perhaps my most expensive one to date both in time and in funding. With over 8 hours of travel by car to some foreign land that charges a generous rate of 13% sales tax (I'm spoiled by 3 - 7%), it begs the question as to why anyone in their sane mind would ever contemplate on visiting.
 

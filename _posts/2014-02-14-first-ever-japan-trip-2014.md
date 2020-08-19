@@ -6,7 +6,7 @@ tags: eventing
 meta-tags: COSPA Girls！モーレツ宇宙海賊 Japan Mandarake Mouretsu Pirates  Abyss of Hyperspace Non Non Biyori Ufotablet Cafe Wake Up のんのんだより のんのんだより公開録音なのん！ モーレツ宇宙海賊　ＡＢＹＳＳ　ＯＦ　ＨＹＰＥＲＳＰＡＣＥ－亜空の深淵－
 permalink: "/2014/02/14/first-ever-japan-trip-2014/"
 excerpt: "\n\t\t\t\t\t\t"
-thumbnai: 28087400-1024x570.jpg
+thumbnail: minato_aqua_hololive_drawn_by_namako_namacotan__sample-8fd11b3881cd54519bef716f5c204157.jpg
 ---
 [//]: #  ([caption id="attachment_349" align="aligncenter" width="717"]![]({{ site.baseurl }}/assets/28087400-1024x570.jpg) Art by 紙パレット[/caption])
 
