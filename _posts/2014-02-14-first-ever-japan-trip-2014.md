@@ -7,6 +7,8 @@ meta-tags: COSPA Girls！モーレツ宇宙海賊 Japan Mandarake Mouretsu Pirat
 permalink: "/2014/02/14/first-ever-japan-trip-2014/"
 excerpt: "\n\t\t\t\t\t\t"
 thumbnail: minato_aqua_hololive_drawn_by_namako_namacotan__sample-8fd11b3881cd54519bef716f5c204157.jpg
+thumbnail-caption: "Illustration by 海鼠@お仕事募集中"
+thumbnail-caption-link: "https://www.pixiv.net/en/artworks/81560651"
 ---
 [//]: #  ([caption id="attachment_349" align="aligncenter" width="717"]![]({{ site.baseurl }}/assets/28087400-1024x570.jpg) Art by 紙パレット[/caption])
 

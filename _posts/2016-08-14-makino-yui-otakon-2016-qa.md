@@ -7,6 +7,8 @@ meta-tags: 2016 Makino Yui Otakon 牧野由依
 permalink: "/2016/08/14/makino-yui-otakon-2016-qa/"
 aside: ""
 thumbnail: 75528767_p0_master1200.jpg
+thumbnail-caption: "Illustration by iruRabbit"
+thumbnail-caption-link: "https://www.pixiv.net/en/artworks/75528767"
 ---
 
 [//]: # (assets/YMakino-200x300.jpg)
@@ -71,7 +73,7 @@ I usually don't do these kinds of things in that voice but you have to promise m
 
 **everyone says yes**
 
-![5OvMXwo]({{ site.baseurl }}/assets/5OvMXwo.png)
+[//]: # (![5OvMXwo]({{ site.baseurl }}/assets/5OvMXwo.png))
 
 Note: Would post what she said as her impression but we made a promise
 
