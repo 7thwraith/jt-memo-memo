@@ -13,7 +13,15 @@
         <hr>
         <figure class="figure">
         <img class="img-fluid rounded" src="{{ site.baseurl }}/assets/images/thumbnails/{{ page.thumbnail }}" alt="">
-        <figcaption class="figure-caption text-left">{{ page.thumbnail-caption }}</figcaption>
+        <figcaption class="figure-caption text-left">
+          {% if page.thumbnail-caption-link %}
+          <a href="{{ page.thumbnail-caption-link }}">
+            {{ page.thumbnail-caption }}
+          </a>
+          {% else %}
+          {{ page.thumbnail-caption }}
+          {% endif %}
+        </figcaption>
       </figure>
         <hr>
         {{ content }}
